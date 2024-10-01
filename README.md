@@ -35,7 +35,17 @@ Refine the detected lane lines for clear output.
 ## Installation 📩
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/manojsiddoji/lane-line-detection.git
+   git clone https://github.com/manojsiddoji/Edge_detection-using-Image_Processing.git
+2. Navigate to the project directory:
+   ```bash
+   cd Edge_detection-using-Image_Processing
+3. Install the required Python packages:
+   ```bash
+   pip install [all the requirements]
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+5. Open the `Final.ipynb` file from the Jupyter interface to run the lane line detection workflow step-by-step.
+---
 
-
-
+   
