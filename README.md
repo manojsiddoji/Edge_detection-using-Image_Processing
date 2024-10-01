@@ -47,5 +47,10 @@ Refine the detected lane lines for clear output.
    jupyter notebook
 5. Open the `Final.ipynb` file from the Jupyter interface to run the lane line detection workflow step-by-step.
 ---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
    
