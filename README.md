@@ -53,11 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contributors
-Thanks to all the contributors! 
-
-[![Contributors](https://contrib.rocks/image?repo=manojsiddoji/Edge_detection-using-Image_Processing)](https://github.com/yourusername/Edge_detection-using-Image_Processing/graphs/contributors)
-
 
 ---
 
